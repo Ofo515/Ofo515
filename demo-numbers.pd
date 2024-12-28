@@ -1,0 +1,6 @@
+#N canvas 151 81 800 686 10;
+#X obj 19 496 cnv 3 750 3 empty empty OUT 0 12 1 12 -228856 -191407
+0;
+#X obj 19 208 cnv 3 750 3 empty empty IN 0 -6 1 12 -228856 -191407
+0;
+#X obj 720 23 thispath;
